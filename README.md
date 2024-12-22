@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: hello i'm rizki mobile dev
 mobile dev
 
 
